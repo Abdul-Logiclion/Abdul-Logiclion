@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul-Logiclion
-- 👀 I’m interested in full stack developement 
+- 🔹 I'm interested in full-stack development and aspire to be a data scientist.
 - 🌱 I’m currently learning DSA and backend developement
 - 💞️ I’m looking to collaborate on leet code and codedamn
 - 📫 How to reach me https://www.linkedin.com/in/abdul-jabbar-7b1401132/
