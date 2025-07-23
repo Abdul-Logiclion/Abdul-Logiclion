@@ -2,7 +2,7 @@
 - 🔹 I'm interested in full-stack development and aspire to be a data scientist.
 - 🌱 I’m currently learning DSA and backend developement
 - 💞️ I’m looking to collaborate on leet code and codedamn
-- 📫 How to reach me https://www.linkedin.com/in/abdul-jabbar-rahimoon-30478b210/
+- 📫 How to reach me https://www.linkedin.com/in/abdul-jabbar-rahimoon/
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
